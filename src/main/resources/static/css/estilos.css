@@ -1,0 +1,29 @@
+#tituloPrincipal{
+    color:#0000cc;
+    font-size: 50px;
+}
+
+
+.parrafoNegrita {
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+
+.parrafoEspecial {
+    font-family: cursive;
+}
+
+.prioridad {
+    color: red;
+    
+}
+
+.prioridad1 {
+    color: blue;
+    
+}
+
+.prioridad2 {
+    color: red;
+    
+}
